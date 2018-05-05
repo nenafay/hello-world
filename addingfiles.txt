@@ -1,0 +1,5 @@
+steps to add files in git:
+create file.
+save into directory folder
+$ git status (to see if it's been added)
+$ git add readme.txt (to commit (save))
